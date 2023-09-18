@@ -1,6 +1,6 @@
 # 🎓 **University of Colorado Boulder - Master of Science in Data Science**
 
-### Welcome to the GitHub repository dedicated to my journey through the "Master of Science in Data Science" program offered by the University of Colorado Boulder through Coursera.
+Welcome to the GitHub repository dedicated to my journey through the "Master of Science in Data Science" program offered by the University of Colorado Boulder through Coursera.
 
 ## 📚 **Program Overview**
 This repository serves as a digital record of my coursework, projects, and learning progress throughout this comprehensive data science program. It includes assignments, code, and project work that I've completed during the program.
