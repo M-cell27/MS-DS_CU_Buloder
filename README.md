@@ -12,32 +12,33 @@ This repository serves as a digital record of my coursework, projects, and learn
         🌲 Trees and Graphs: Basics: Dive into graph theory and its applications.
         💡 Dynamic Programming, Greedy Algorithms: Master optimization techniques for data problem-solving.
 
-### **📈 Data Science as a Field: Gain insights into the evolving landscape of data science.**
+### 🌟 **Vital Skills for Data Scientists (4 credits)**  
+        📈 Data Science as a Field: Gain insights into the evolving landscape of data science.
         🔍 Ethical Issues in Data Science: Delve into the ethical considerations that guide data-driven decision-making.
         🔐 Cybersecurity for Data Science: Understand data security in the digital era.
         📊 Fundamentals of Data Visualization: Learn the art of effective data storytelling.
 
-### **📊 Data Mining Foundations and Practice Specialization (3 credits)**
+### 📊 **Data Mining Foundations and Practice Specialization (3 credits)**
         📈 Data Mining Pipeline
         📊 Data Mining Methods
         📋 Data Mining Project
 
-### **🤖 Machine Learning: Theory and Hands-on Practice with Python Specialization (3 credits)**
+### 🤖 **Machine Learning: Theory and Hands-on Practice with Python Specialization (3 credits)**
         🧠 Introduction to Machine Learning: Supervised Learning
         🧩 Unsupervised Algorithms in Machine Learning
         🌟 Introduction to Deep Learning
 
-### **📈 Statistical Modeling for Data Science Applications Specialization (3 credits)**
+### 📈 **Statistical Modeling for Data Science Applications Specialization (3 credits)**
         📊 Modern Regression Analysis in R
         📈 ANOVA and Experimental Design
         📉 Generalized Linear Models and Nonparametric Regression
 
-### **💾 Databases for Data Scientists Specialization (2 credits)**
+### 💾 **Databases for Data Scientists Specialization (2 credits)**
         🏗️ Relational Database Design
         📜 The Structured Query Language (SQL)
         🚀 Advanced Topics and Future Trends in Database Technologies (elective)
 
-### **📚 Data Science Electives (9 credits)**: [chosen electives]
+### 📚 **Data Science Electives (9 credits)**: [chosen electives]
 
 
 
