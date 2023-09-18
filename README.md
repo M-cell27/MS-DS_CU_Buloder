@@ -8,9 +8,9 @@ This repository serves as a digital record of my coursework, projects, and learn
 ## 🌟 **Highlights**
 
 ### 🏗️ **Foundations of Data Science: Data Structures and Algorithms Pathway (3 credits)**
-    - **📊 Algorithms for Searching, Sorting, and Indexing**: Explore efficient algorithms for data manipulation.
-    - **🌲 Trees and Graphs: Basics**: Dive into graph theory and its applications.
-    - **💡 Dynamic Programming, Greedy Algorithms**: Master optimization techniques for data problem-solving.
+     **📊 Algorithms for Searching, Sorting, and Indexing**: Explore efficient algorithms for data manipulation.**
+     **🌲 Trees and Graphs: Basics**: Dive into graph theory and its applications.
+     **💡 Dynamic Programming, Greedy Algorithms**: Master optimization techniques for data problem-solving.
 
 ### **📈 Data Science as a Field**: Gain insights into the evolving landscape of data science.
     - **🔍 Ethical Issues in Data Science**: Delve into the ethical considerations that guide data-driven decision-making.
